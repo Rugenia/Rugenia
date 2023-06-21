@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python Language, Project Management, Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/Ruthmaama]((www.behance.net/Ruthmaama))
+- 👨‍💻 All of my projects are available at [www.behance.net/Ruthmaama]((www.behance.net/Ruthmaama))
 
 - 💬 Ask me about **figma, html, css, JavaScript**
 
